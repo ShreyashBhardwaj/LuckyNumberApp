@@ -37,7 +37,8 @@ public class MainActivity extends AppCompatActivity {
                 //Explicit Intent
 
                 Intent i = new Intent(getApplicationContext(), SecondActivity.class);
-                i.putExtra()
+                i.putExtra("name",userName);
+                startActivity(i);
             }
         });
     }
