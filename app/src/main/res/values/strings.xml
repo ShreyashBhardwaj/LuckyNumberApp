@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LuckyNumberIntentsExample</string>
+    <string name="welcome_to_lucky_no">Welcome to Lucky No!</string>
+    <string name="please_enter_your_name">Please Enter your Name</string>
+    <string name="wish_me_luck">Wish Me Luck</string>
+    <string name="your_lucky_number_is">Your Lucky Number Is:</string>
+    <string name="share_my_lucky_number">Share My Lucky Number</string>
 </resources>
