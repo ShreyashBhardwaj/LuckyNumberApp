@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 //Explicit Intent
 
                 Intent i = new Intent(getApplicationContext(), SecondActivity.class);
-                i.putExtra("name",userName);
+                i.putExtra("name",userName); //Sends Data in Key:Value Format
                 startActivity(i);
             }
         });
